@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-06-20T16:31:39 ICT" name="Code challenge - Automation QA" finished-at="2025-06-20T16:33:15 ICT" duration-ms="96007">
+    <groups>
+    </groups>
+    <test started-at="2025-06-20T16:31:39 ICT" name="Test" finished-at="2025-06-20T16:33:15 ICT" duration-ms="96007">
+      <class name="tests.test01_VSeeClinic">
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.test01_VSeeClinic@233795b6]" started-at="2025-06-20T16:31:39 ICT" name="setup" finished-at="2025-06-20T16:31:49 ICT" duration-ms="9308" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testChatBetweenUsers()[pri:0, instance:tests.test01_VSeeClinic@233795b6]" started-at="2025-06-20T16:31:49 ICT" name="testChatBetweenUsers" finished-at="2025-06-20T16:33:07 ICT" duration-ms="78757" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testChatBetweenUsers -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.test01_VSeeClinic@233795b6]" started-at="2025-06-20T16:33:07 ICT" name="tearDown" finished-at="2025-06-20T16:33:12 ICT" duration-ms="4898" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.test01_VSeeClinic -->
+      <class name="tests.test03_GitHubAPI">
+        <test-method signature="getGitHubInfo()[pri:0, instance:tests.test03_GitHubAPI@9d5509a]" started-at="2025-06-20T16:33:12 ICT" name="getGitHubInfo" finished-at="2025-06-20T16:33:15 ICT" duration-ms="2972" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getGitHubInfo -->
+      </class> <!-- tests.test03_GitHubAPI -->
+    </test> <!-- Test -->
+  </suite> <!-- Code challenge - Automation QA -->
+</testng-results>

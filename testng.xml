@@ -1,0 +1,8 @@
+<suite name="Code challenge - Automation QA">
+	<test name="Test">
+		<classes>
+			<class name="tests.test01_VSeeClinic" />
+			<class name="tests.test03_GitHubAPI" />
+		</classes>
+	</test>
+</suite>
